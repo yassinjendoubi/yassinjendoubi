@@ -13,7 +13,9 @@ Final-year Software Engineering student at ESPRIT (Tunisia), focused on backend 
 
 ### 🔄 [FlowOps](https://github.com/yassinjendoubi/FlowOps)
 
-An ASP.NET Core MVC platform for monitoring and managing Windows Worker Services.
+FlowOps is an ASP.NET Core MVC application developed during my internship for monitoring and managing Windows Worker Services. It allows administrators to start and stop services, monitor running processes, inspect live logs and service history, edit configurations, browse deployed files, register services, and track process IDs.
+
+Built with **ASP.NET Core MVC, .NET 8, C#, HTML, CSS, JavaScript, JSON/JSONL, and Windows Task Scheduler**.
 
 ### 🎓 ForME — [Backend](https://github.com/yassinjendoubi/ForMeBack) · [Frontend](https://github.com/yassinjendoubi/FormeFront)
 
