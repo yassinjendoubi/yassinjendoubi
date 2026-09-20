@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Yassin 👋
 
-<!--
-**yassinjendoubi/yassinjendoubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Software Engineering student at ESPRIT (Tunisia), focused on backend systems, security, and DevOps. I enjoy building scalable applications, microservices, and reliable deployment pipelines.
 
-Here are some ideas to get you started:
+## 🛠️ Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend:** Java · Spring Boot · Spring Security · Microservices  
+**Frontend:** Angular · TypeScript  
+**Data:** PostgreSQL · MySQL 
+**DevOps:** Docker · Kubernetes · Jenkins · SonarQube · Prometheus · Grafana
+
+## 🚀 Featured Projects
+
+### 🔄 [FlowOps](https://github.com/yassinjendoubi/FlowOps)
+
+An ASP.NET Core MVC platform for monitoring and managing Windows Worker Services.
+
+### 🎓 ForME — [Backend](https://github.com/yassinjendoubi/ForMeBack) · [Frontend](https://github.com/yassinjendoubi/FormeFront)
+
+An e-learning, training, and certification management platform developed as a final-year engineering project. Built with a Spring Boot microservices backend, Angular frontend, Spring Security, JWT authentication, MySQL, Docker, Eureka, and an API Gateway.
+
+## 📫 Reach Me
+
+Open to connecting and collaborating. Explore my pinned repositories or contact me through GitHub.
