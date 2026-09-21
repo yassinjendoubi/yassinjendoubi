@@ -64,8 +64,8 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=java,cs,ts,js,html,css"
-    alt="Java, C Sharp, TypeScript, JavaScript, HTML and CSS"
+    src="https://skillicons.dev/icons?i=java,cs,c,cpp,php,py,ts,js,html,css"
+    alt="Java, C Sharp, C, C++, PHP, Python, TypeScript, JavaScript, HTML and CSS"
   />
 </p>
 
@@ -73,13 +73,13 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=spring,dotnet"
-    alt="Spring and .NET"
+    src="https://skillicons.dev/icons?i=spring,dotnet,symfony"
+    alt="Spring, .NET and Symfony"
   />
 </p>
 
 <p align="center">
-  Spring Boot · Spring Security · Microservices · ASP.NET Core MVC · .NET 8
+  Spring Boot · Spring Security · Microservices · ASP.NET Core MVC · .NET 8 · Symfony
 </p>
 
 <h3 align="center">🎨 Frontend Development</h3>
@@ -95,9 +95,13 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=postgres,mysql,redis"
-    alt="PostgreSQL, MySQL and Redis"
+    src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"
+    alt="PostgreSQL, MySQL, MongoDB and Redis"
   />
+</p>
+
+<p align="center">
+  PostgreSQL · MySQL · MongoDB · Microsoft SQL Server · Redis
 </p>
 
 <h3 align="center">🚀 DevOps and Monitoring</h3>
